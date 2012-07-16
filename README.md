@@ -1,5 +1,5 @@
 # ØTick
-## The Feather Weight Trading Framework
+## The Featherweight Trading Framework
 
 **ØTick** \zerotick\\:
 
